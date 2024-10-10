@@ -1,4 +1,4 @@
-#!/ust/bin/env python3
+#!/usr/bin/env python3
 """
 A module that convert a float number to its string version.
 """
@@ -10,6 +10,6 @@ def to_str(n: float) -> str:
     its string version.
 
     Args:
-        n(float): Float number parameter.
+        n (float): Float number parameter.
     """
     return str(n)
