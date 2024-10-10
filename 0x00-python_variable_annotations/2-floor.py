@@ -4,7 +4,7 @@ A module that convert float number to floor.
 """
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """
     A function that take a float as an argument and return its floor version.
 
