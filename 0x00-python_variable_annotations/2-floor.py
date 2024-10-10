@@ -11,4 +11,4 @@ def floor(n: float) -> int:
     Args:
         n (float): Float number argument.
     """
-    return n//1
+    return int(n // 1)
