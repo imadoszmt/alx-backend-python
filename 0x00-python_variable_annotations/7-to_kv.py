@@ -4,7 +4,7 @@ A module that take a string and int/float and return a tuple
 """
 
 
-from typing import List, Tuple
+from typing import List, Union, Tuple
 
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
